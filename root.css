@@ -1,0 +1,25 @@
+
+
+:root {
+    /* ## Colors */
+    --Vb-blue: hsl(233, 47%, 7%);
+    /* (main background)  */
+    --desblue: hsl(244, 38%, 16%);
+    /*  (card background) */
+    --S-violet: hsl(277, 64%, 61%);
+    /* (accent) */
+    --White: hsl(0, 0%, 100%);
+    /* (main heading, stats) */
+    --twhite: hsla(0, 0%, 100%, 0.75);
+    /* (main paragraph) */
+    --Stwhite: hsla(0, 0%, 100%, 0.6);
+    /* (stat headings) */
+
+    /* ### Font */
+
+    --Fsize: 15px;
+    --F1: 'Inter', sans-serif;
+    --W1: 400;
+    --F2: font-family: 'Lexend Deca', sans-serif;
+    --W2: 700;
+}
